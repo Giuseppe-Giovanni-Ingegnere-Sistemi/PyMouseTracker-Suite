@@ -70,5 +70,5 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarnos a través de:
 
-Email: ing.josejuangallegos@gmail.com
+Email: ing.josejuangallegos@gmail.com.
 GitHub: Giuseppe-Giovanni-Ingegnere-Sistemi
