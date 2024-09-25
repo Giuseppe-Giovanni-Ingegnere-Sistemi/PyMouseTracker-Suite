@@ -11,7 +11,7 @@ _PyMouseTracker-Suite_ es una herramienta avanzada para el control del puntero d
 
 Para ejecutar PyMouseTracker-Suite, necesitas tener instaladas las siguientes dependencias:
 
- - Python 3.x
+ - Python
  - OpenCV
  - Mediapipe
  - PyAutoGUI
@@ -27,7 +27,7 @@ pip install opencv-python mediapipe pyautogui
 Clona el repositorio:
 
 ````bash
-git clone https://github.com/tu_usuario/PyMouseTracker-Suite.git
+git clone https://github.com/Giuseppe-Giovanni-Ingegnere-Sistemi/PyMouseTracker-Suite.git
 ````
 Navega al directorio del proyecto:
 
